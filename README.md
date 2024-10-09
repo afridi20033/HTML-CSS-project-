@@ -3,11 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ashhar Jamali Gallery</title>
+    <title>Afridi Alam </title>
     <style>
       * {
-        padding: 0px;
-        margin: 0px;
+        padding: 1px;
+        margin: 1px;
       }
 
       .gallery {
